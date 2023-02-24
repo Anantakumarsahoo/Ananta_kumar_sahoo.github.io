@@ -18,6 +18,8 @@ section {
 
         height: 500px;
         background-color: black;
+
+        text-align: center;
     }
 
     nav {
@@ -149,4 +151,7 @@ hr {
 
     text-decoration: none;
     color: white;
+}
+.b{
+    font-size: 25px;
 }
