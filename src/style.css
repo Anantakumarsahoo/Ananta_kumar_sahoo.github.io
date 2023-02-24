@@ -120,7 +120,7 @@ h2 {
 
 .project-card {
     width: 400px;
-    height: 520px;
+    height: 540px;
     box-shadow: 5px 5px 20px  black;
 }
 .project-container {
@@ -141,10 +141,12 @@ hr {
 .project-link{
     text-decoration: none;
     color:aqua;
+    font-size: 25px;
 }
 .project-watch {
     text-decoration: none;
     color: red;
+    font-size: 25px;
 }
 
 .a{
